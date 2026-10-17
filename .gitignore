@@ -336,3 +336,6 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,pycharm,visualstudiocode,python
 
 secret.csv
+
+pyproject.toml
+uv.lock
