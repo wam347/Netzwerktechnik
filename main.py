@@ -1,3 +1,3 @@
 print ("main.pychen")
 
-print ("ja!")
+print ("ja!, das ist sooo")
